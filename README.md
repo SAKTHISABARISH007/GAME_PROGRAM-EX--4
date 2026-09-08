@@ -21,5 +21,5 @@ When IsAiming = true, zoom the camera in (FOV) and slightly shift it over the sh
 <img width="833" height="670" alt="Screenshot 2026-09-08 172441" src="https://github.com/user-attachments/assets/5ec49702-cc97-4cf2-b8e3-cd8e504f085c" />
 <img width="831" height="521" alt="Screenshot 2026-09-08 172452" src="https://github.com/user-attachments/assets/820475ab-d371-4ab0-b01d-a04f2f63b922" />
 
-Result:
+# Result:
 Attach Rifle with character mesh and implementation bullet spawn from Rifle is successfully done.
